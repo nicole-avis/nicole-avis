@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicole-avis
 - 🌱 I’m currently pursuing a major in Computer Science
 - 💞️ I’m looking to collaborate on solving C programs
-- 📫 How to reach me
+- 📫 How to reach me @nicolerumnong777@gmail.com
 
 <!---
 nicole-avis/nicole-avis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
